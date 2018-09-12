@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Denis Gustavo Fantinato
 
-You can use the [editor on GitHub](https://github.com/denisfantinato/denisfantinato.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Assistant Professor.
+Graduation program in Computer Science ([POSCOMP](http://poscomp.ufabc.edu.br/))
+Mathematics, Computation and Cognition Center ([CMCC](http://cmcc.ufabc.edu.br/))
+Universidade Federal do ABC ([UFABC](http://ufabc.edu.br/))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ph.D in Electrical and Computer Engineering (2017)
+University of Campinas ([UNICAMP](http://www.unicamp.br/))
 
-### Markdown
+**Lattes CV**: http://lattes.cnpq.br/6743074399752192
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Google Scholar**: https://scholar.google.com.br/citations?user=sfKUru0AAAAJ&hl=pt-BR&oi=ao
 
-```markdown
-Syntax highlighted code block
+------
 
-# Header 1
-## Header 2
-### Header 3
+### Research Interests
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/denisfantinato/denisfantinato.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Machine Learning
+- Computational Intelligence
+- Information Theoretic Learning
+- Blind Signal Processing and Adaptive Filtering
